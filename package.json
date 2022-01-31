@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "jayson": "^3.6.6",
+    "yargs": "^17.3.1"
+  }
+}
